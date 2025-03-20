@@ -1,0 +1,100 @@
+.parent{
+    height: 515px;
+    width: 508px;
+    background-color: black;
+}
+
+.a{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.b{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 100px;
+}
+.c{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 100px;
+}
+.d{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 100px;
+}
+.e{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    display: inline-block;
+}
+.f{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-right: 100px;
+}
+.g{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-right: 100px;
+}
+.h{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.i{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    display: inline-block;
+}
+.j{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 100px;
+}
+.k{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.l{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 100px;
+    position: relative;
+    bottom: 100px;
+    left: 100px;
+}
+.m{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+    bottom: 100px;
+    left: 203px;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+}
